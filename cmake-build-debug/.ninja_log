@@ -1,0 +1,6 @@
+# ninja log v5
+4	487	7229809622682271	CMakeFiles/Ejercicios_contenedors.dir/Vectores.cpp.obj	d45485c9cab2165c
+495	630	7229814523733724	Ejercicios_contenedors.exe	6c6b45d703edd3a0
+31	510	7229809622930432	CMakeFiles/Ejercicios_contenedors.dir/secuencias.cpp.obj	accc0ccb543e100c
+1	167	7229933587421833	build.ninja	f5f2ab8e670077b9
+3	494	7229814522431329	CMakeFiles/Ejercicios_contenedors.dir/algoritmos.cpp.obj	50582fd1b0ae4e22
