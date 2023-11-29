@@ -12,6 +12,7 @@ int main (){
     for (const auto& numero : numeros) {
         std::cout << numero << " ";
     }
+
     std::cout << std::endl;
 
     std::cout << "Elemento mas grande: " << *maximo << std::endl;
